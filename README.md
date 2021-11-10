@@ -2,14 +2,14 @@
 
 *Síntesis del trabajo **en curso** para la beca EVC-CIN 2020-2022.*
 
-### Hola, bienvenidas/os
+### Hola!!
 
-Estamos trabajando sobre bases de datos oficiales.
-Analizando la situación atítpica del año 2020.
-Cualquier colaboración es bienvenida!
+Estamos trabajando sobre bases de datos oficiales y analizando la situación atípica del año 2020.  
+Cualquier colaboración es bienvenida!  
 
 
-![ ](https://tenor.com/view/gasolina-precios-mexico-los-simspson-gif-11261997)
+![ ](https://c.tenor.com/dZwkAAJEtYwAAAAC/gasolina-precios.gif)
+
 
 ### Licencia
 
