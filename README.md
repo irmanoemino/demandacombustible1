@@ -21,5 +21,7 @@ Este material se comparte bajo la licencia [Creative Commons Attribution-ShareAl
 
 No, Irma Noemí. (2021, Noviembre) Análisis de Demanda de Combustible 2020 en Argentina v.1, Zenodo. Zenodo. https://doi.org/10.5281/zenodo.5668300
 
-### Recurso: 
+### Recurso visible en: 
 https://irmanoemino.github.io/demandacombustible1/
+
+
