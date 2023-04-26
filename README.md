@@ -15,6 +15,10 @@ Cualquier colaboración es bienvenida!
 
 Este material se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
 
+_FE DE ERRATAS_: 
+Apartado 3.1: Comparativa nafta - movilidad google 2020: Leyenda del Gráfico debe decir: Nafta 2020 (m3/10^4)
+Apartado 3.3: Comparativa gasoil - movilidad google 2020: Leyenda del Gráfico debe decir: Gasoil 2020 (m3/10^4)
+
 ### Citar como
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5668300.svg)](https://doi.org/10.5281/zenodo.5668300)
