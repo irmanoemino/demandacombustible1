@@ -2,9 +2,11 @@
 
 *Síntesis del trabajo **en curso** para la beca EVC-CIN 2020-2022.*
 
+*Participación de **Leandro Rabbione y Aixa Maldonado**, becas EVC-CIN 2020-2022.*
+
 ### Hola!!
 
-Estamos trabajando sobre bases de datos oficiales y analizando la situación atípica del año 2020.  
+Estamos trabajando sobre bases de datos oficiales y analizando la situación atípica del año 2020 y su período poscovid 2021.  
 Cualquier colaboración es bienvenida!  
 
 
